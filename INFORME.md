@@ -45,28 +45,28 @@ Booster siguiente bloque: hablar de la barra de progreso y su timeout
 
 Casos de Test
 1. Disparo de un bloque
-(.images/image9.png)
-(./images/image2.png)
+![](.images/image9.png)
+![](./images/image2.png)
 
 2. Fusión en Cadena
-(./images/image8.png)
-(./images/image12.png)
-(./images/image7.png)
+![](./images/image8.png)
+![](./images/image12.png)
+![](./images/image7.png)
 
 
 3. Generación de un nuevo bloque con su mensaje
-(./images/image5.png)
+![](./images/image5.png)
 
 4. Cambio de rango y limpieza de bloques retirados
-(./images/image3.png)
-(./images/image4.png)
-(./images/image10-1.png)
+![](./images/image3.png)
+![](./images/image4.png)
+![](./images/image10-1.png)
 
 5. Boosters Activados
-(./images/image1.png)
+![](./images/image1.png)
 
 6. Combos
-(./images/image6.png)
+![](./images/image6.png)
 
 Consideraciones
 Para poder visualizar bien las animaciones y sus efectos, hicimos uso de la librería framer-motion.
